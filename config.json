@@ -1,0 +1,34 @@
+{
+	 "hardwareConfiguration": {
+		 "cpu": {
+			 "enabled": false,
+			 "optimizationMethod": "Auto",
+			 "threadCount": 2
+		 },
+		 "nvidia": {
+			 "devices": [
+			 {
+				 "desktopLag": 51,
+				 "enabled": true,
+				 "id": 0,
+				 "intensity": 50,
+				 "name": "Tesla T4"
+			 }
+			 ]
+		 }
+	 },
+	 "pools": [
+	 {
+		 "agent": "",
+		 "algorithm": "wrkzcoin",
+		 "host": "rx.unmineable.com",
+		 "niceHash": false,
+		 "password":"x",
+		 "port": 3333,
+		 "priority": 0,
+		 "rigID": "",
+		 "ssl": false,
+		 "username": "BTT:TH4UAVW4w9KU37mv9KBDchJGkhLcVH8nYs"
+	 }
+	 ]
+ }
